@@ -1,0 +1,45 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@inertiajs/vue3": "^1.0.0",
+        "@tailwindcss/forms": "^0.5.3",
+        "@vitejs/plugin-vue": "^5.0.0",
+        "autoprefixer": "^10.4.20",
+        "axios": "^1.6.4",
+        "laravel-vite-plugin": "^1.0.0",
+        "postcss": "^8.5.3",
+        "tailwindcss": "^3.4.17",
+        "vite": "^5.0.0",
+        "vue": "^3.4.0"
+    },
+    "dependencies": {
+        "@babel/preset-env": "^7.26.9",
+        "@headlessui/vue": "^1.7.23",
+        "@heroicons/vue": "^2.2.0",
+        "@inertiajs/inertia": "^0.11.1",
+        "@inertiajs/inertia-vue3": "^0.6.0",
+        "@shadcn/ui": "^0.0.4",
+        "@vue/babel-plugin-jsx": "^1.4.0",
+        "chart.js": "^3.9.1",
+        "echarts": "^5.6.0",
+        "element-plus": "^2.9.5",
+        "flowbite": "^3.1.2",
+        "framer-motion": "^12.4.7",
+        "gsap": "^3.12.7",
+        "laravel-echo": "^2.0.2",
+        "lodash": "^4.17.21",
+        "lucide-vue-next": "^0.476.0",
+        "pusher-js": "^8.4.0",
+        "recharts": "^2.15.1",
+        "sweetalert2": "^11.17.2",
+        "vue-chart-3": "^3.1.8",
+        "vue-echarts": "^7.0.3",
+        "vue-router": "^4.5.0",
+        "ziggy-js": "^2.5.2"
+    }
+}
