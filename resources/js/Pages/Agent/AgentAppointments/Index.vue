@@ -120,7 +120,7 @@ import { ref, computed, onMounted } from "vue";
 import { Inertia } from "@inertiajs/inertia";
 import { usePage } from "@inertiajs/vue3";
 import AgentLayout from "../Components/AgentLayout.vue";
-import Echo from "laravel-echo";
+
 
 const page = usePage();
 const filterStatus = ref("all");
