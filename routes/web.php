@@ -121,6 +121,8 @@ Route::middleware('auth')->group(function () {
           'index' => 'agent.document-requests.index',
              'update' => 'agent.document-requests.update',
      // other resource methods
+        // other resource methods
+           // other resource methods
  ]);
 
 
